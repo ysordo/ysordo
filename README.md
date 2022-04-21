@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ysordo
+- Language development c/c++, java, python
 - 📫 How to reach me juniorsordogarcia@gmail.com
 
 <!---
