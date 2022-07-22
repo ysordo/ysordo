@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ysordo
-- Language development c/c++, java, python
+- Language development c/c++, java, python, vue 3 (quasar)
 - 📫 How to reach me juniorsordogarcia@gmail.com
 
 <!---
