@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ysordo
-- Language development c/c++, java, python, vue 3 (quasar)
+- Language development c/c++, java, python, vue 3 (quasar), react, nextjs + react, tailwind
 - 📫 How to reach me juniorsordogarcia@gmail.com
 
 <!---
