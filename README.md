@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @ysordo
-- Language development c/c++, java, python, vue 3 (quasar), react, nextjs + react, tailwind
-- 📫 How to reach me juniorsordogarcia@gmail.com
-
-<!---
-ysordo/ysordo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Junior Yohan Sordo García and I am a computer engineer and programmer. I specialize in the development of web applications and virtual reality with innovative technologies. I have experience as a frontend developer, using Nextjs and Reactjs to create dynamic and responsive websites. I also have knowledge of Unreal Engine 5, a graphic engine that allows creating high-quality interactive experiences. I have worked with Blueprint and C++ to program the logic and user interface of Unreal Designe and Unreal Designe VR projects. If you want to know more about my work or contact me, you can write to me at juniorsordogarcia@gmail.com.
